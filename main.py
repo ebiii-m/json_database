@@ -1,6 +1,7 @@
 import json
 import os
 
+
 class DataBase:
     def __init__(self, dir):
         self.db_dir = dir
